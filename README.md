@@ -11,3 +11,5 @@ Adversarial training methods for semi-supervised text classification
 \[4\]: https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/
 
 \[5\]: https://nlp.stanford.edu/projects/glove/
+
+\[6\]: https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html
