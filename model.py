@@ -117,7 +117,6 @@ class Model:
 	def virtual_adversarial_loss(self, x):
 		# Get prob and Embedding
 		pred, embedded = self.get_pred_and_emb(x)
-		#pred = tf.stop_gradient(pred)
 		pred = tf.clip_by_value(pred, 1e-7, 1. - 1e-7)
 		# # Initialize perturbation with random noise.
 		d = tf.random_normal(shape=tf.shape(embedded), dtype=tf.float32)
