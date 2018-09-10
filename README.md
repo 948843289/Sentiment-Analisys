@@ -9,3 +9,5 @@ Adversarial training methods for semi-supervised text classification
 \[3\]: https://arxiv.org/pdf/1507.00677.pdf
 
 \[4\]: https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/
+
+\[5\]: https://nlp.stanford.edu/projects/glove/
